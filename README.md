@@ -164,8 +164,8 @@ Acesse: [http://localhost:8000/docs](http://localhost:8000/docs)
 
 | Modelo | Acurácia |
 |--------|-----------|
-| Decision Tree | XX% |
-| Random Forest | XX% |
+| Decision Tree | 97.04% , Test: 96.88% |
+| Random Forest | 98.24% |
 
 O modelo **Random Forest** foi escolhido para serialização e uso na API.
 
